@@ -65,7 +65,7 @@ pip install -r requirements.txt
 - The generated image will be saved as `mi_qr.png`.
 
 ## 🖼️ QR Code Example
-`![QR Code Example](qr_generator/mi_qr.png)`
+![QR Code Example](qr_generator/mi_qr.png)
 
 ## 📧 Contact
 
