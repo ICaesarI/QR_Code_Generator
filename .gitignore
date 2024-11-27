@@ -1,0 +1,13 @@
+# Virtual environments
+.venv/
+env/
+
+# Python cache
+*.pyc
+__pycache__/
+
+# QR code images
+*.png
+
+# Logs
+*.log
