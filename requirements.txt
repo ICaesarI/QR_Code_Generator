@@ -1,1 +1,5 @@
-qrcode[pil]==7.4.2
+Flask==2.3.3
+Flask-Cors==4.0.0
+Werkzeug==2.3.8
+qrcode[pil]
+gunicorn
