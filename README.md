@@ -111,4 +111,4 @@ The project requires the following:
 
 - **LinkedIn:** [Cesar Gonzalez](https://www.linkedin.com/in/cesar-gonzalez-anaya/)
 - **Github:** [ICaesarI](https://github.com/ICaesarI)
-- **Email:** cesar.gonzalez6194@alumnos.udg.mx
+- **Email:** cesar.gonzalez.anayadev@gmail.com
